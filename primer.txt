@@ -1,7 +1,4 @@
 Na primer :D
 test test test test test
-<<<<<<< HEAD
 thought about
-=======
 myself
->>>>>>> 374f479dc5238eb792dbf49c7958e45312192d9a
